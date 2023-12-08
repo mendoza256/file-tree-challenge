@@ -1,0 +1,43 @@
+{
+  "name": "Root",
+  "children": [
+    {
+      "name": "Folder One",
+      "children": [
+        {
+          "name": "Subfolder One",
+          "children": [
+            {
+              "name": "File One"
+            },
+            {
+              "name": "File Two"
+            }
+          ]
+        },
+        {
+          "name": "File Three"
+        }
+      ]
+    },
+    {
+      "name": "Folder Two",
+      "children": [
+        {
+          "name": "Subfolder Two",
+          "children": [
+            {
+              "name": "File Four"
+            },
+            {
+              "name": "File Five"
+            }
+          ]
+        },
+        {
+          "name": "File Six"
+        }
+      ]
+    }
+  ]
+}
